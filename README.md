@@ -5,7 +5,7 @@ This is a responsive **Flipkart Clone** built using **HTML**, **CSS**, and **Jav
 
 ## 📸 Live Preview
 
-🚀 [View Website]([https://shahmiraliqureshii.github.io/Flipkart-clone/](https://flipkart-clone-shahmir.vercel.app))  
+🚀 [View Website](https://flipkart-clone-shahmir.vercel.app)  
 
 
 ## 📌 Features
