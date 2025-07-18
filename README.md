@@ -52,7 +52,7 @@ This project was built as a frontend practice project to strengthen layout build
 **Shahmir Ali Qureshi**  
 - Frontend Developer | Science General (Computer Science) Student  
 - Currently learning **React** & **MERN Stack**  
-- [Connect on LinkedIn](https://www.linkedin.com/in/shahmiraliqureshii)
+- [Connect on LinkedIn](https://www.linkedin.com/in/shahmir-qureshi-162200252/)
 
 
 ## ⭐️ Show Your Support
