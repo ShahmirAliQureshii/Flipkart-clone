@@ -26,7 +26,7 @@ const CategorySec = () => {
             box.appendChild(categ);
             let a = document.createElement("a");
             ;
-            a.href = "/Html/demo.html";
+            a.href = "/demo.html";
             categ.appendChild(a);
             let img = document.createElement("img");
             img.src = data.buttons[`button${i}`].img;
@@ -45,7 +45,7 @@ const BestDealMobileSec = () => {
     if (mobilesBox) {
         for (let i = 1; i < 7; i++) {
             let a = document.createElement("a");
-            a.href = "/Html/demo.html";
+            a.href = "/demo.html";
             a.classList.add("sm");
             mobilesBox.appendChild(a);
             let img = document.createElement("img");
@@ -90,7 +90,7 @@ const BestDealFurnSec = () => {
     if (furnitureBox) {
         for (let i = 1; i < 9; i++) {
             let a = document.createElement("a");
-            a.href = "/Html/demo.html";
+            a.href = "/demo.html";
             a.classList.add("sm");
             furnitureBox.appendChild(a);
             let img = document.createElement("img");
@@ -136,7 +136,7 @@ const BannersSec = () => {
     let bannerIndex = 1;
     for (let i = 0; i < 3; i++) {
         const banner = document.createElement("a");
-        banner.href = "/Html/demo.html";
+        banner.href = "/demo.html";
         banner.classList.add("banners", "box");
         bannersContainer.appendChild(banner);
         for (let a = 0; a < 3; a++) {
@@ -157,7 +157,7 @@ const FeaturdBrands = () => {
     if (featuredBox) {
         for (let i = 1; i < 11; i++) {
             let a = document.createElement("a");
-            a.href = "/Html/demo.html";
+            a.href = "/demo.html";
             a.classList.add("sm");
             featuredBox.appendChild(a);
             let img = document.createElement("img");

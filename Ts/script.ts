@@ -38,7 +38,7 @@ if(box) {
         box.appendChild(categ);
 
         let a = document.createElement("a") as Anchor;;
-        a.href = "/Html/demo.html"
+        a.href = "/demo.html"
         categ.appendChild(a);
 
         let img = document.createElement("img") as Image;
@@ -61,7 +61,7 @@ let mobilesBox = document.querySelector(".mobilesBox") as Div;
 if(mobilesBox) {
     for(let i: number = 1; i<7; i++) {
     let a = document.createElement("a")  as Anchor;
-    a.href = "/Html/demo.html";
+    a.href = "/demo.html";
     a.classList.add("sm");
     mobilesBox.appendChild(a);
 
@@ -112,7 +112,7 @@ let furnitureBox = document.querySelector(".furnitureBox") as Div;
 if(furnitureBox) {
     for(let i: number = 1; i<9; i++) {
     let a = document.createElement("a") as Anchor;
-    a.href = "/Html/demo.html";
+    a.href = "/demo.html";
     a.classList.add("sm");
     furnitureBox.appendChild(a);
 
@@ -164,7 +164,7 @@ let bannersContainer = document.querySelector(".bannersContainer") as Div;
 let bannerIndex: number = 1;
 for (let i: number = 0; i < 3; i++) {
     const banner = document.createElement("a") as Anchor;
-    banner.href = "/Html/demo.html"
+    banner.href = "/demo.html"
     banner.classList.add("banners","box");
     bannersContainer.appendChild(banner);
     for(let a: number = 0; a < 3; a++) {
@@ -182,7 +182,7 @@ let featuredBox = document.querySelector(".featuredBox") as Div;
 if(featuredBox) {
     for(let i: number = 1; i < 11; i++) {
     let a = document.createElement("a") as Anchor;
-    a.href = "/Html/demo.html";
+    a.href = "/demo.html";
     a.classList.add("sm");
     featuredBox.appendChild(a);
 
