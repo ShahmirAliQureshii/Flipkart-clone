@@ -23,7 +23,7 @@ This is a responsive **Flipkart Clone** built using **HTML**, **CSS**, and **Jav
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- TypeScript
 
 
 ## 📂 Folder Structure
@@ -38,7 +38,7 @@ Flipkart-clone/<br>
 
 ## 🎯 Purpose
 
-This project was built as a frontend practice project to strengthen layout building, responsive design, and basic DOM manipulation using vanilla JavaScript.
+This project was built as a frontend practice project to strengthen layout building, responsive design, and basic DOM manipulation using TypeScript.
 
 
 ## 📈 Future Improvements
