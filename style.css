@@ -417,6 +417,9 @@ header {
     gap: 10px;
     box-sizing: border-box;
 }
+    .categories .box {
+        gap: 20px;
+    }
     .banners img, .swiper .img {
     width: calc((100% - 20px) / 3); /* 3 images + 2 gaps (10px each) */
     max-width: 100%;
@@ -425,7 +428,7 @@ header {
     object-fit: cover;
 }
 
-    .adver, #seller, #cart {
+    .adver, #seller, #cart, .custom-button-prev, .custom-button-next, .rightScroll, .leftScroll, .custom-nav {
         display: none;
     }
     .smartphones {
@@ -446,6 +449,9 @@ header {
     }
     #furniture1 {
         height: 85px;
+    }
+    .box, .mobilesBox {
+        overflow-x: scroll;
     }
 
 }
